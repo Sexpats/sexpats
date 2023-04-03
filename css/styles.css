@@ -12,13 +12,13 @@ body {
 /* Changing the background colour for the header */
 
 header {
-	background-color: #960224;
+	background-color: #960224 ;
 }
 
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #960224;
+	background-color:#960224 ;
 }
 
 /* Effect on social media buttons */
@@ -30,6 +30,6 @@ footer a:hover {
 /* Corporate navbar */
 
 #navbar-corporate a.active {
-	color: #800000;
+	color: #960224 ;
 	font-weight: bold;
 }
